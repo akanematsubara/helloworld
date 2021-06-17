@@ -1,2 +1,4 @@
 # helloworld
 hajimemasite
+gohannwotabemasita
+anikiniaeteyokatta
